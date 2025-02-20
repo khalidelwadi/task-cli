@@ -8,7 +8,7 @@ now = datetime.now()
 currentTime = now.strftime("%D:%H:%M:%S")
 
 # Specify the name of the json file i'm going to work with
-mypath = "/home/kw9/task-cli/task_cli.json"
+mypath = "/home/YourUserName/task-cli/task_cli.json"
 
 # set a default value for dict key/values that are not going to change
 try:
